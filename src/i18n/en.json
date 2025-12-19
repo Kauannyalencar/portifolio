@@ -1,0 +1,14 @@
+{
+  "title": "Hi, I'm Kauanny Alencar",
+  "hero_subtitle": "Frontend Developer",
+  "projects": "Projects",
+  "contact": "Contact",
+  "about": "About",
+  "cv": "Download CV",
+  "about_bio": "I’m a self-taught Frontend Developer who loves learning about the world. I’m currently studying React,  and strengthening my knowledge in responsiveness, UI best practices, and API integration, aiming to become a Full Stack Developer. I also integrate AI tools into my learning and creation process, using them as support to grow faster.",
+  "projects":"Projects",
+  "project_link": "Live project",
+  "project_repo": "See on Github",
+  "contact_title": "Get in touch",
+  "contact_text": "I'm open to opportunities, collaborations, and new challenges. Feel free to reach out!"
+}

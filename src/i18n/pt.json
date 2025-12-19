@@ -1,0 +1,15 @@
+{
+  "title":"Kauanny Alencar",
+  "hero_subtitle": "Desenvolvedora Frontend",
+  "projects": "Projetos",
+  "contact": "Contato",
+  "about": "Sobre",
+  "cv":"Download CV",
+  "about_bio":"Olá, sou uma desenvolvedora Frontend autodidata que adora aprender sobre o mundo. Atualmente estudo React e aprofundo meus conhecimentos em responsividade, boas práticas de UI e integração com APIs, com o objetivo de me tornar uma desenvolvedora Full Stack. Também integro ferramentas de IA no meu processo de estudo e criação, usando-as como apoio para evoluir mais rápido.",
+  "projects":"Projetos",
+   "project_link": "Site",
+    "project_repo": "Ver no Github",
+    "contact_title":"Contato",
+    "contact_text":
+  "Estou aberta a oportunidades, colaborações e novos desafios. Vamos conversar!"
+}

@@ -1,0 +1,44 @@
+.contact {
+    min-height: 80vh;
+    padding: 4rem 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.contact h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.contact_text {
+    max-width: 500px;
+    opacity: 0.8;
+    margin-bottom: 2rem;
+    line-height: 1.6;
+}
+
+.contact_links {
+    display: flex;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.contact_btn {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.8rem 1.4rem;
+    border-radius: 30px;
+    background-color: #242424;
+    transition: 0.3s ease;
+}
+
+.contact_btn:hover {
+    font-weight: bold;
+    background-color: #cfcfcf;
+    transform: scale(1.1);
+}
