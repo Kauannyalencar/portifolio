@@ -26,8 +26,9 @@
 }
 
 .profile_img {
+    max-height: 300px;
     width: 300px;
-        background-color: #82739e; 
+    background-color: #82739e; 
     border-radius: 50%;
     padding: 0.2rem;
     overflow: hidden;
